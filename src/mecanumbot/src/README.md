@@ -4,8 +4,8 @@
 
 <h3 align="center">Robitics' course group project.</h3>
 <p align="center">Dardano Pietro: 10674299</p>
-<p align="center">Desiderato Lorenzo: CP </p>
-<p align="center">Ghilotti Filippo: CP </p>
+<p align="center">Desiderato Lorenzo: </p>
+<p align="center">Ghilotti Filippo: </p>
 
 <h3> Project's Files: </h3>
 1. <b>Bags</b>
@@ -19,4 +19,3 @@
 ```shell
 roslaunch robotics_ddg robotics_ddg.launch
 ```
-<p>Can be useful to write "source ~/robotics_ddg/devel/setup.bash" in .bashrc</p>

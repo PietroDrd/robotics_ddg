@@ -1,0 +1,13 @@
+<launch>
+    <!-- Pose at moment 0 -->
+    <param name="x0" value="-0.598297894001" type="double"/>
+    <param name="y0" value="0.442829757929" type="double"/>
+    <param name="theta0" value="-80" type="double"/>
+
+    <!-- Launching nodes -->
+
+    <!-- RQT -->
+
+    <!-- Bags -->
+
+</launch>
