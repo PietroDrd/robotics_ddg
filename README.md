@@ -4,7 +4,7 @@
 
 <p  align="center">Dardano Pietro: 10674299</p>
 
-<p  align="center">Desiderato Lorenzo:  </p>
+<p  align="center">Desiderato Lorenzo: 10607673  </p>
 
 <p  align="center">Ghilotti Filippo: 10632869 </p>
 
