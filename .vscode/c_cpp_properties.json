@@ -3,7 +3,7 @@
         {
             "name": "Linux",
             "includePath": [
-                "home/Pietro/robotics_ddg/devel/include/**",
+                "/home/pietro/robotics_ddg/devel/include/**",
                 "opt/ros/melodic/include",
                 //DA AGGIUNGERE PATH DEVEL/INCLUDE "",
             ],

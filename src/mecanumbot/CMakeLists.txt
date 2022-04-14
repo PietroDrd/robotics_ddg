@@ -14,6 +14,7 @@ find_package(catkin REQUIRED COMPONENTS
   tf2
   tf2_ros
   genmsg
+  sensor_msgs
   message_generation
   nav_msgs
   std_msgs
@@ -120,6 +121,7 @@ catkin_package(
   roscpp
   rospy
   std_msgs
+  sensor_msgs
   message_runtime
   nav_msgs
   message_filters
@@ -136,6 +138,10 @@ include_directories(
   include
   ${catkin_INCLUDE_DIRS}
 )
+
+add_executable(Ticks2RPM src/Ticks2RPM.cpp)
+add_dependencies(Ticks2RPM ${catkin_EXPORTED_TARGETS} )
+target_link_libraries(Ticks2RPM ${catkin_LIBRARIES} )
 
 ## Declare a C++ library
 # add_library(${PROJECT_NAME}
